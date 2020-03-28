@@ -4,8 +4,8 @@ Discord bot implementation
 
 This is hosted on AWS Server using Supervisor as a service  
 **Supported Commands-**  
--#google search_word- This will google "search_word" and in return will provide 5 links  
--#recent search_word- This will return all the recent searches matching the search_word  
+**#google search_word**- This will google "search_word" and in return will provide 5 links  
+**#recent search_word**- This will return all the recent searches matching the search_word  
 **Steps to Run**    
 -Download the Repo  
 -Make virtualenv using python 3.6  
